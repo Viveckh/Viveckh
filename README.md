@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hey there, 
+### Its EJ aka Viveckh aka V
 
-<!--
-**Viveckh/Viveckh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 &nbsp;Entrepreneur, Creator of E-commerce Solution [Veniqa](https://veniqa.com)
 
-Here are some ideas to get you started:
+💻 &nbsp;Data Scientist & Software Engineering Leader @ Accenture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎹 &nbsp;R&B Artist, Composer, Songwriter. 1/2 of [V-Seven Beatz](https://v7beatz.com)
+
+🎥&nbsp; Video Producer @ [V-Seven Beatz Motion Pictures](https://youtube.com/V7MotionPictures)
+
+---
+
+[Website](https://www.viveckh.com) | [Linkedin](https://linkedin.com/in/viveckh)
+
