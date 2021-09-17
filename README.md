@@ -11,5 +11,5 @@
 
 ---
 
-[Website](https://www.viveckh.com) | [Linkedin](https://linkedin.com/in/viveckh)
+[Website](https://www.viveckh.com) | [Linkedin](https://linkedin.com/in/viveckh) | [Tech Blog](https://medium.com/@viveckh)
 
